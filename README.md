@@ -68,6 +68,6 @@ The dataset defines family relations in this way.
 4) Data Prediction
 
 ## Conclusion
-Predictive model is biult with 78.7% accuracy using Logistic Regression Algorithm. 
-We can conclude that age, sex and passenger class influence on the survival level. According to interpretation, sex has strong strong effect, passenger class has medium effect and age has small effect on on survival rate.
-Females tend to had more chances to survive over the men; passengers of the 1st class tend to have more chances to survive than 2 class, and 2nd class over the 3rd class. And children tend to survive over the adults and adults over the seniors.
+- Predictive model is biult with 78.7% accuracy using Logistic Regression Algorithm. 
+- We can conclude that age, sex and passenger class influence on the survival level. According to interpretation, sex has strong strong   effect, passenger class has medium effect and age has small effect on on survival rate.
+- Females tend to had more chances to survive over the men; passengers of the 1st class tend to have more chances to survive than 2       class, and 2nd class over the 3rd class. And children tend to survive over the adults and adults over the seniors.
