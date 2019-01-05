@@ -60,6 +60,8 @@ The dataset defines family relations in this way.
 3) caret
 4) e1071
 5) lmtest
+6) lattice
+7) gains
 
 ## Steps :
 1) Data loading and Data cleaning
