@@ -62,7 +62,7 @@ The dataset defines family relations in this way.
 5) lmtest
 
 ## Steps :
-1) Data loading and data cleaning
+1) Data loading and Data cleaning
 2) Data exploration
 3) Data analysis
 4) Data Prediction
