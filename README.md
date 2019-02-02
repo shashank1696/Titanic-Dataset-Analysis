@@ -24,7 +24,7 @@ In this analysis i have tried to answer some of the questions such as:
   We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
  ## Data Dictionary
-VariableDefinitionKey 
+##### VariableDefinitionKey 
 1) survival: Survival 0 = No, 1 = Yes
 2) pclass: Ticket class 1 = 1st, 2 = 2nd, 3 = 3rd 
 3) sex: 'Male' or 'Female' 
