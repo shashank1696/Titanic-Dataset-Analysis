@@ -17,9 +17,9 @@ In this analysis i have tried to answer some of the questions such as:
    1) Training set (train.csv)
    2) Test set (test.csv)
    ## Problem Statement
-  The training set should be used to build your machine learning models. For the training set, the provided outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
+  The training set should be used to build your machine learning models. For the training set, the provided outcome (also known as the “ground truth”) for each passenger. The model will be based on “features” like passengers’ gender and class.
 
-  The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
+  The test set should be used to see how well the model performs on unseen data. For the test set, do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model that is trained to predict whether or not they survived the sinking of the Titanic.
 
   We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
